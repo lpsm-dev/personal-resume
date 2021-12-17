@@ -1,0 +1,128 @@
+name: "CI"
+
+on:
+  push:
+    branches:
+    - main
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+defaults:
+  run:
+    shell: bash
+
+env:
+  REGISTRY: ghcr.io
+  IMAGE_NAME: ${{ github.repository }}
+
+jobs:
+  test:
+    name: Test
+    runs-on: ubuntu-20.04
+
+    steps:
+      - name: Check out code from GitHub
+        uses: actions/checkout@v2.4.0
+        with:
+          fetch-depth: 0
+
+      - name: Secret Dection
+        uses: zricethezav/gitleaks-action@master
+        with:
+          config-path: .gitleaks.toml
+        continue-on-error: false
+
+      - name: Hadolint
+        uses: hadolint/hadolint-action@v1.6.0
+        with:
+          dockerfile: Dockerfile
+          config: ./.hadolint.yml
+
+  build:
+    name: Build
+    runs-on: ubuntu-20.04
+    timeout-minutes: 10
+    needs: test
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Set up QEMU
+        id: qemu
+        uses: docker/setup-qemu-action@v1
+        with:
+          image: tonistiigi/binfmt:latest
+          platforms: all
+
+      - name: Set up Docker Buildx
+        id: buildx
+        uses: docker/setup-buildx-action@v1
+        with:
+          install: true
+          buildkitd-flags: --debug
+
+      - name: Inspect builder
+        run: |
+          echo "Name:      ${{ steps.buildx.outputs.name }}"
+          echo "Endpoint:  ${{ steps.buildx.outputs.endpoint }}"
+          echo "Status:    ${{ steps.buildx.outputs.status }}"
+          echo "Flags:     ${{ steps.buildx.outputs.flags }}"
+          echo "Platforms: ${{ steps.buildx.outputs.platforms }}"
+
+      - name: Login to GitHub Container Registry
+        uses: docker/login-action@v1
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Extract metadata (tags, labels) for Docker
+        id: meta
+        uses: docker/metadata-action@v3
+        with:
+          images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+
+      - name: Build and push
+        uses: docker/build-push-action@v2
+        with:
+          push: true
+          file: Dockerfile
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
+          cache-from: |
+            type=registry,ref=${{ steps.meta.outputs.tags }}
+            type=registry,ref=${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:main
+          cache-to: type=inline
+
+  scan:
+    name: Scan
+    runs-on: ubuntu-20.04
+    timeout-minutes: 10
+    needs: build
+
+    steps:
+      - name: Dive
+        uses: yuichielectric/dive-action@0.0.4
+        with:
+          image: "${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:main"
+          config-file: ${{ github.workspace }}/.dive-ci.yml
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run Trivy vulnerability scanner
+        id: trivy
+        uses: aquasecurity/trivy-action@master
+        with:
+          image-ref: "${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:main"
+          format: "template"
+          template: "@/contrib/sarif.tpl"
+          output: "trivy-results.sarif"
+          vuln-type: "os,library"
+
+      - name: Upload Trivy Scan Results to GitHub Security Tab
+        uses: github/codeql-action/upload-sarif@v1
+        if: always()
+        with:
+          sarif_file: "trivy-results.sarif"
