@@ -1,0 +1,13 @@
+{
+  "name": "lpmatos-resume",
+  "main": "index.js",
+  "scripts": {
+    "cm": "git cz",
+    "lint": "mega-linter-runner -p . --fix",
+    "secrets": "gitleaks --verbose -c .gitleaks.toml -p ."
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2"
+  }
+}
