@@ -3,10 +3,11 @@
   "version": "1.0.1",
   "description": "This is a simples npm package of my personal resume in a CLI way",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "format": "prettier --write \"*.js\"",
+    "format": "prettier --config .prettierrc.json --write \"*.js\" --ignore-path .gitignore",
     "lint": "eslint \"*.js\" --fix"
   },
   "keywords": [
