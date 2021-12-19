@@ -1,1 +1,30 @@
-{}
+{
+  "About Me": [
+      "Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, NodeJS, Shell Script, PowerShell, Ruby e brincadeiras de baixo nível com C (OpenMP), automações e cloud. Atualmente atuo como Analista DevOps focado em ambientes de orquestração de containers, infraestrutura em cloud, construção de pipeline CI/CD para entrega de softwares, git workflow e monitoramento de ambientes. Participo de projetos DevOps com CI/CD, Infra as Code e GitFlow, gerenciados por metodologias ágeis (Scrum e Kanban)."
+  ],
+
+  "Past Experience": [""],
+
+  "Skills": [
+      "Python",
+      "Ruby",
+      "Go",
+      "JavaScript",
+      "NodeJS",
+      "ReactJS",
+      "Express",
+      "Java",
+      "Data Structure",
+      "Blockchain",
+      "Docker",
+      "Kubernetes"
+  ],
+
+  "Projects": [
+      "Docker Crypto Miner",
+      "Twitter Realtime Processing Covid",
+      "Twitter Sentimental Analysis Covid"
+  ],
+
+  "Contact": ["luccapsm@protonmail.com"]
+}
