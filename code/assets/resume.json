@@ -1,30 +1,42 @@
 {
-  "About Me": [
-      "Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, NodeJS, Shell Script, PowerShell, Ruby e brincadeiras de baixo nível com C (OpenMP), automações e cloud. Atualmente atuo como Analista DevOps focado em ambientes de orquestração de containers, infraestrutura em cloud, construção de pipeline CI/CD para entrega de softwares, git workflow e monitoramento de ambientes. Participo de projetos DevOps com CI/CD, Infra as Code e GitFlow, gerenciados por metodologias ágeis (Scrum e Kanban)."
+  "About Me":[
+    "Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, NodeJS, Shell Script, PowerShell, Ruby e brincadeiras de baixo nível com C (OpenMP), automações e cloud. Atualmente atuo como Analista DevOps focado em ambientes de orquestração de containers, infraestrutura em cloud, construção de pipeline CI/CD para entrega de softwares, git workflow e monitoramento de ambientes. Participo de projetos DevOps com CI/CD, Infra as Code e GitFlow, gerenciados por metodologias ágeis (Scrum e Kanban)."
   ],
-
-  "Past Experience": [""],
-
-  "Skills": [
-      "Python",
-      "Ruby",
-      "Go",
-      "JavaScript",
-      "NodeJS",
-      "ReactJS",
-      "Express",
-      "Java",
-      "Data Structure",
-      "Blockchain",
-      "Docker",
-      "Kubernetes"
+  "Skills":[
+    "AWS",
+    "Git",
+    "Infra-as-Code",
+    "Docker",
+    "Kubernetes",
+    "Helm",
+    "Terraform",
+    "Blockchain",
+    "Data Structure",
+    "Python",
+    "Ruby",
+    "Go",
+    "JavaScript"
   ],
-
-  "Projects": [
-      "Docker Crypto Miner",
-      "Twitter Realtime Processing Covid",
-      "Twitter Sentimental Analysis Covid"
+  "Projects":[
+    "Docker Crypto Miner",
+    "Twitter Realtime Processing Covid",
+    "CLI thar find animes passing scene images",
+    "GitOps using Terraform with the GitLab provider",
+    "Simple python script to cleaning helm releases in features namespaces",
+    "Basic Binary-to-Decimal converter",
+    "JavaScript simple To-Do list",
+    "Recursive clone all projects into a namespace (group) in GitLab Server",
+    "Simple Ruby gem that performan a Lint in your GitLab CI File",
+    "Demonstration RabbitMQ queue, python and Docker",
+    "Script that install and configure Zabbix Agent on Linux or Windows",
+    "AWS Lambda Function to Automate Stop and Start of EC2 Instances",
+    "Search string in file using Parallel Programing (OpenMP)",
+    "Simple project to create a Windows-Linux Keylogger",
+    "Simple Corona Tracker used by command line and integration with Telegram"
   ],
-
-  "Contact": ["luccapsm@protonmail.com"]
+  "Contacts":[
+    "Email: luccapsm@protonmail.com",
+    "Instagram: https://www.instagram.com/luccapessoa",
+    "Linkedin: https://www.linkedin.com/in/luccapessoa"
+  ]
 }
