@@ -48,6 +48,18 @@ This will give you access to the code on your **local machine**.
 
 ## ➤ Usage <a name = "usage"></a>
 
+### Node
+
+```bash
+npx lpmatos-resume
+```
+
+### Docker
+
+```bash
+docker container run -it --rm ghcr.io/lpmatos/personal-resume:main
+```
+
 ## ➤ Visuals <a name = "visuals"></a>
 
 Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
