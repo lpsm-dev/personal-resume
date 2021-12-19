@@ -8,7 +8,8 @@
     "lint": "eslint \"*.js\" --fix"
   },
   "keywords": [
-    "resume"
+    "resume",
+    "business card"
   ],
   "author": "Lucca Pessoa",
   "license": "MIT",
