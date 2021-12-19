@@ -1,10 +1,11 @@
 {
   "name": "lpmatos-resume",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a simples npm package of my personal resume in a CLI way",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
     "format": "prettier --write \"*.js\"",
     "lint": "eslint \"*.js\" --fix"
   },
@@ -21,7 +22,8 @@
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-plugin-node": "^8.0.1",
-    "prettier": "^2.3.2"
+    "prettier": "^2.3.2",
+    "sucrase": "^3.20.3"
   },
   "repository": {
     "type": "git",
