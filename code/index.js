@@ -4,14 +4,15 @@
 
 var inquirer = require("inquirer");
 var chalk = require("chalk");
+
 var response = chalk.bold.yellow;
 var resume = require("./assets/resume.json");
 
 var resumePrompts = {
-  type: "list",
-  name: "resumeOptions",
-  message: "What do you want to know about me?",
-  choices: [...Object.keys(resume), "Exit"]
+    type: "list",
+    name: "resumeOptions",
+    message: "What do you want to know about me?",
+    choices: [...Object.keys(resume), "Exit"]
 };
 
 function resumeHandler() {
