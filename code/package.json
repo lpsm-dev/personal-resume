@@ -4,7 +4,8 @@
   "description": "This is a simples npm package of my personal resume in a CLI way",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint \"*.js\" --fix"
   },
   "keywords": [
     "resume"
@@ -14,6 +15,10 @@
   "dependencies": {
     "chalk": "latest",
     "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-node": "^8.0.1"
   },
   "repository": {
     "type": "git",

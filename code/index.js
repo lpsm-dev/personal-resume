@@ -2,6 +2,7 @@
 
 "use strict";
 
+var console = require("console");
 var inquirer = require("inquirer");
 var chalk = require("chalk");
 
