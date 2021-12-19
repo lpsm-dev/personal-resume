@@ -1,10 +1,83 @@
+<div align="center">
+
+<p>
+  <img alt="gif-header" src="https://cdn.hackernoon.com/hn-images/0*KyeIBTwEiX6_sE06" width="350px" float="center"/>
+</p>
+
+<h2 align="center">✨ Personal resume ✨</h2>
+
+<div align="center">
+
+[![Semantic Release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://gitlab.com/dry-group/cluster-management)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://gitlab.com/dry-group/cluster-management)
+[![CI Status](https://github.com/lpmatos/personal-resume/actions/workflows/ci.yml/badge.svg)](https://github.com/lpmatos/personal-resume/actions/workflows/ci.yml)
+
+</div>
+
+---
+
+<p align="center">
+  <img alt="gif-about" src="https://thumbs.gfycat.com/GrizzledRemoteHornet-small.gif" width="450px" float="center"/>
+</p>
+
+<p align="center">
+  ✨ This is a simples npm package of my personal resume in a CLI way ✨
+</p>
+
+<p align="center">
+  <a href="#getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#versioning">Versioning</a>
+</p>
+
+</div>
+
+---
+
+## ➤ Getting Started <a name = "getting-started"></a>
+
+If you want contribute on this project, first you need to make a **git clone**:
+
+>
+> 1. git clone --depth 1 <https://github.com/personal-resume.git> -b main
+>
+
+This will give you access to the code on your **local machine**.
+
+## ➤ Description <a name = "description"></a>
+
+## ➤ Usage <a name = "usage"></a>
+
+## ➤ Visuals <a name = "visuals"></a>
+
+Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+
+## ➤ Links <a name = "links"></a>
+
+## ➤ Author <a name = "author"></a>
+
+👤 **Lucca Pessoa**
+
+Hey!! If you like this project or if you find some bugs feel free to contact me in my channels:
+
+>
+> * Email: luccapsm@protonmail.com
+> * Website: https://github.com/lpmatos
+> * GitHub: [@lpmatos](https://github.com/lpmatos)
+> * GitLab: [@lpmatos](https://gitlab.com/lpmatos)
+>
+
+## ➤ Versioning <a name = "versioning"></a>
+
+To check the change history, please access the [**CHANGELOG.md**](CHANGELOG.md) file.
+
 ## ➤ Troubleshooting <a name = "troubleshooting"></a>
 
 If you have any problems, please contact [me](luccapsm@protonmail.com).
 
 ## ➤ Project status <a name = "project-status"></a>
 
-Currently the project is being maintained and constantly changing with new features.
+If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
 
 ## ➤ Show your support <a name = "show-your-support"></a>
 
