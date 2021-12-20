@@ -8,6 +8,7 @@
 
 <div align="center">
 
+[![npm package](https://badge.fury.io/js/resume-cli.svg)](https://www.npmjs.org/package/lpmatos-resume)
 [![Semantic Release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://gitlab.com/dry-group/cluster-management)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://gitlab.com/dry-group/cluster-management)
 [![CI Status](https://github.com/lpmatos/personal-resume/actions/workflows/ci.yml/badge.svg)](https://github.com/lpmatos/personal-resume/actions/workflows/ci.yml)
