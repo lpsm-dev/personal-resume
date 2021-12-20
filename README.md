@@ -71,6 +71,8 @@ Are you an aspiring developer? Want to show off your coding skills. Then here is
 
 #### Local
 
+Local execution method:
+
 ```bash
 npm start
 ```
@@ -82,6 +84,8 @@ node index.js
 ```
 
 #### Published
+
+Published npm Package execution method:
 
 ```bash
 npx lpmatos-resume
