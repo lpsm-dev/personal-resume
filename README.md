@@ -4,7 +4,7 @@
   <img alt="gif-header" src="https://cdn.hackernoon.com/hn-images/0*KyeIBTwEiX6_sE06" width="350px" float="center"/>
 </p>
 
-<h2 align="center">✨ Personal resume ✨</h2>
+<h2 align="center">✨ My personal CLI resume ✨</h2>
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img alt="gif-about" src="https://thumbs.gfycat.com/GrizzledRemoteHornet-small.gif" width="450px" float="center"/>
+  <img alt="gif-about" src="https://i.stack.imgur.com/niIU6.gif" width="450px" float="center"/>
 </p>
 
 <p align="center">
@@ -45,6 +45,8 @@ If you want contribute on this project, first you need to make a **git clone**:
 This will give you access to the code on your **local machine**.
 
 ## ➤ Description <a name = "description"></a>
+
+This project it's a simply CLI that resume my career. The idea it's display this information through the terminal using npx.
 
 ## ➤ Usage <a name = "usage"></a>
 
