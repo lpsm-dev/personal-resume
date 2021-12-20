@@ -20,9 +20,7 @@ function resumeHandler() {
   inquirer
     .prompt(resumePrompts)
     .then(answer => {
-      if (answer.resumeOptions == 'Exit') {
-        return;
-      }
+      if (answer.resumeOptions == 'Exit') return;
       let option = answer.resumeOptions;
       console.log(response('--------------------------------------'));
       resume[`${option}`].forEach(info => {
