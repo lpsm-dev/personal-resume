@@ -56,7 +56,14 @@ In this project i'm using:
 
 ## ➤ Description <a name = "description"></a>
 
-This project it's a simply CLI that resume my career. The idea it's display this information through the terminal using npx.
+Are you an aspiring developer? Want to show off your coding skills. Then here is a CLI of your resume (or you can use it in any innovative way, as you want). This CLI is focused on my resume and skills. It has basics information and can be expanded. The idea it's display this information through the terminal using npx.
+
+### Options
+
+- About Me
+- Tech Skills
+- Projects
+- Contact Me
 
 ## ➤ Usage <a name = "usage"></a>
 
