@@ -69,6 +69,20 @@ Are you an aspiring developer? Want to show off your coding skills. Then here is
 
 ### Node
 
+#### Local
+
+```bash
+npm start
+```
+
+or
+
+```bash
+node index.js
+```
+
+#### Published
+
 ```bash
 npx lpmatos-resume
 ```
