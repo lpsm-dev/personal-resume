@@ -14,6 +14,7 @@
 [![NPM package](https://badge.fury.io/js/resume-cli.svg)](https://www.npmjs.org/package/lpmatos-resume)
 [![GitHub](https://img.shields.io/github/license/lpmatos/personal-resume)](https://github.com/lpmatos/personal-resume/blob/main/LICENSE)
 [![CI Status](https://github.com/lpmatos/personal-resume/actions/workflows/ci.yml/badge.svg)](https://github.com/lpmatos/personal-resume/actions/workflows/ci.yml)
+[![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/lpmatos/personal-resume)](https://github.com/lpmatos/personal-resume)
 
 </div>
 
