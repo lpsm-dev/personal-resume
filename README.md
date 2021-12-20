@@ -99,7 +99,7 @@ To check the change history, please access the [**CHANGELOG.md**](CHANGELOG.md) 
 
 ## ➤ Troubleshooting <a name = "troubleshooting"></a>
 
-If you have any problems, please contact [me](luccapsm@protonmail.com).
+If you have any problems, please contact [me](https://github.com/lpmatos).
 
 ## ➤ Project status <a name = "project-status"></a>
 
