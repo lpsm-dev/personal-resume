@@ -8,8 +8,9 @@
 
 <div align="center">
 
-[![Semantic Release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://gitlab.com/dry-group/cluster-management)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://gitlab.com/dry-group/cluster-management)
+[![Semantic Release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/lpmatos/personal-resume)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://github.com/lpmatos/personal-resume)
+[![GitHub repo size](https://img.shields.io/github/repo-size/lpmatos/personal-resume)](https://github.com/lpmatos/personal-resume)
 [![NPM package](https://badge.fury.io/js/resume-cli.svg)](https://www.npmjs.org/package/lpmatos-resume)
 [![GitHub](https://img.shields.io/github/license/lpmatos/personal-resume)](https://github.com/lpmatos/personal-resume/blob/main/LICENSE)
 [![CI Status](https://github.com/lpmatos/personal-resume/actions/workflows/ci.yml/badge.svg)](https://github.com/lpmatos/personal-resume/actions/workflows/ci.yml)
