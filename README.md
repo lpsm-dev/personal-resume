@@ -75,7 +75,8 @@ Are you an aspiring developer? Want to show off your coding skills. Then here is
 
 ### Node
 
-#### Local
+<details><summary>Local</summary>
+<p>
 
 Local execution method:
 
@@ -88,14 +89,19 @@ or
 ```bash
 node index.js
 ```
+</p>
+</details>
 
-#### Published
+<details><summary>Published</summary>
+<p>
 
 Published npm Package execution method:
 
 ```bash
 npx lpmatos-resume
 ```
+</p>
+</details>
 
 ### Docker
 
