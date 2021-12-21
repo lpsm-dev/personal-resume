@@ -105,9 +105,16 @@ npx lpmatos-resume
 
 ### Docker
 
+<details><summary>Container</summary>
+<p>
+
+Running a container:
+
 ```bash
 docker container run -it --rm ghcr.io/lpmatos/personal-resume:main
 ```
+</p>
+</details>
 
 ## ➤ Visuals <a name = "visuals"></a>
 
