@@ -149,7 +149,7 @@ If you have any problems, please contact [me](https://github.com/lpmatos).
 
 ## ➤ Project status <a name = "project-status"></a>
 
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers. Currently the project is constantly being updated 👾.
+Currently the project is constantly being updated 👾.
 
 ## ➤ Show your support <a name = "show-your-support"></a>
 
