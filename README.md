@@ -153,9 +153,9 @@ If you have run out of energy or time for your project, put a note at the top of
 
 ## ➤ Show your support <a name = "show-your-support"></a>
 
-Give a ⭐️ if this project helped you!
-
 <div align="center">
+
+Give a ⭐️ if this project helped you!
 
 <p>
   <img alt="gif-header" src="https://www.icegif.com/wp-content/uploads/baby-yoda-bye-bye-icegif.gif" width="350px" float="center"/>
