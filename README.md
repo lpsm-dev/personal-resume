@@ -73,7 +73,7 @@ Are you an aspiring developer? Want to show off your coding skills. Then here is
 
 ## ➤ Usage <a name = "usage"></a>
 
-Ways to run and use this project:
+Ways to run and use this project.
 
 ### Node
 
@@ -154,8 +154,6 @@ If you have run out of energy or time for your project, put a note at the top of
 ## ➤ Show your support <a name = "show-your-support"></a>
 
 Give a ⭐️ if this project helped you!
-
----
 
 <div align="center">
 
