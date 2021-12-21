@@ -155,7 +155,7 @@ Currently the project is constantly being updated 👾.
 
 <div align="center">
 
-Give a ⭐️ if this project helped you!
+Give me a ⭐️ if this project helped you!
 
 <p>
   <img alt="gif-header" src="https://www.icegif.com/wp-content/uploads/baby-yoda-bye-bye-icegif.gif" width="350px" float="center"/>
