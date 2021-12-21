@@ -3,11 +3,11 @@
 import chalk from 'chalk';
 import console from 'console';
 import inquirer from 'inquirer';
-import {readFile} from 'fs/promises';
+import {createRequire} from 'module';
 
 var response = chalk.bold.yellow;
 
-const resume = JSON.parse(await readFile(new URL('./assets/resume.json', import.meta.url)));
+const resume = createRequire(import.meta.url)('./assets/resume.json');
 
 var resumePrompts = {
   type: 'list',
@@ -41,12 +41,12 @@ function resumeHandler() {
             return;
           }
         })
-        .catch(function(err) {
-          console.log('Fetch problem');
+        .catch(function (err) {
+          console.log(err);
         });
     })
-    .catch(function(err) {
-      console.log('Fetch problem');
+    .catch(function (err) {
+      console.log(err);
     });
 }
 

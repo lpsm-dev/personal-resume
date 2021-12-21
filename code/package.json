@@ -4,6 +4,9 @@
   "description": "This is a simples npm package of my personal resume in a CLI way",
   "main": "index.js",
   "type": "module",
+  "engines": {
+    "node": ">= 12"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
@@ -21,10 +24,10 @@
     "inquirer": "^8.2.0"
   },
   "devDependencies": {
-    "eslint": "^5.16.0",
-    "eslint-plugin-node": "^8.0.1",
-    "prettier": "^2.3.2",
-    "sucrase": "^3.20.3"
+    "eslint": "^8.5.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "prettier": "^2.3.2"
   },
   "repository": {
     "type": "git",
