@@ -52,7 +52,7 @@ function resumeHandler() {
 
 function printWelcome() {
   console.log(chalk.green('┌──────────────────────────────────────────────────────────────┐'));
-  console.log(chalk.green('│ Hello, my name is Lucca Pessoa and welcome to my CLI resume! │'));
+  console.log(chalk.green('│ Hello, my name is Lucca and welcome to my CLI resume! │'));
   console.log(chalk.green('└──────────────────────────────────────────────────────────────┘'));
 }
 

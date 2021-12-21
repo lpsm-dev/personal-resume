@@ -133,7 +133,7 @@ Depending on what you are making, it can be a good idea to include screenshots o
 Hey!! If you like this project or if you find some bugs feel free to contact me in my channels:
 
 >
-> * Email: luccapsm@protonmail.com
+> * Email: lpsm-dev@protonmail.com
 > * Website: https://github.com/lpmatos
 > * GitHub: [@lpmatos](https://github.com/lpmatos)
 > * GitLab: [@lpmatos](https://gitlab.com/lpmatos)
