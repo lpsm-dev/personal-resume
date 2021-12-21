@@ -65,8 +65,10 @@ Are you an aspiring developer? Want to show off your coding skills. Then here is
 ### Options
 
 - About Me
+- Past Experience
 - Tech Skills
 - Projects
+- Interests
 - Contact Me
 
 ## ➤ Usage <a name = "usage"></a>
