@@ -22,11 +22,11 @@ function resumeHandler() {
     .then(answer => {
       if (answer.resumeOptions == 'Exit') return;
       let option = answer.resumeOptions;
-      console.log(response('--------------------------------------'));
+      console.log(response('--------------------------------------------------'));
       resume[`${option}`].forEach(info => {
         console.log(response('|   => ' + info));
       });
-      console.log(response('--------------------------------------'));
+      console.log(response('--------------------------------------------------'));
       inquirer
         .prompt({
           type: 'list',
