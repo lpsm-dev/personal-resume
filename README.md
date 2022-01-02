@@ -123,7 +123,7 @@ docker container run -it --rm ghcr.io/lpmatos/personal-resume:main
 Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
 
 <p align="center">
-  <img alt="logo" src="./assets/personal-cli.png"/>
+  <img alt="logo" src="./assets/cli.png"/>
 </p>
 
 ## ➤ Author <a name = "author"></a>
