@@ -1,13 +1,13 @@
 {
   "✨ About Me":[
-    "Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, NodeJS, Shell Script, PowerShell, Ruby e brincadeiras de baixo nível com C (OpenMP), automações e cloud. Atualmente atuo como Analista DevOps focado em ambientes de orquestração de containers, infraestrutura em cloud, construção de pipeline CI/CD para entrega de softwares, git workflow e monitoramento de ambientes. Participo de projetos DevOps com CI/CD, Infra as Code e GitFlow, gerenciados por metodologias ágeis (Scrum e Kanban)."
+    "Enthusiast, explorer and lover of DevOps culture, development with Python, NodeJS, Shell Script, PowerShell, Ruby and low level programming with C (OpenMP), automations and cloud. I currently work focused on container orchestration environments, cloud infrastructure, CI/CD pipeline construction for software delivery, git workflow and monitoring environments. I participate in DevOps projects with CI/CD, Infra as Code and GitFlow, managed by agile methodologies (Scrum and Kanban)."
   ],
   "🧪 Past Experience": [
-    "DevOps Enginner      | NuageIT",
+    "DevOps Analyst       | Nuage",
     "Cloud/DevOps Analyst | Stefanini",
     "Cloud Trainee        | Stefanini",
-    "Support Trainee      | Telemikro Gestão de Telecom ",
-    "Developer Trainee    | TecFF Tecnologia em Software"
+    "Support Trainee      | Telemikro",
+    "Developer Trainee    | TecFF"
   ],
   "💨 Tech Skills":[
     "AWS",
@@ -43,6 +43,7 @@
   ],
   "🔖 Interests": [
     "Adventure Sports",
+    "Anime",
     "Camping",
     "Cooking",
     "Music",
@@ -51,8 +52,6 @@
   "🤙 Contact Me":[
     "Email: lpsm-dev@protonmail.com",
     "GitHub: https://github.com/lpmatos",
-    "GitLab: https://gitlab.com/lpmatos",
-    "Instagram: https://www.instagram.com/luccapessoa",
-    "Linkedin: https://www.linkedin.com/in/luccapessoa"
+    "GitLab: https://gitlab.com/lpmatos"
   ]
 }
