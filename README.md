@@ -128,15 +128,11 @@ Depending on what you are making, it can be a good idea to include screenshots o
 
 ## ➤ Author <a name = "author"></a>
 
-👤 **Lucca Pessoa**
-
-Hey!! If you like this project or if you find some bugs feel free to contact me in my channels:
+👤 Hey!! If you like this project or if you find some bugs feel free to contact me in my channels:
 
 >
 > * Email: lpsm-dev@protonmail.com
-> * Website: https://github.com/lpmatos
-> * GitHub: [@lpmatos](https://github.com/lpmatos)
-> * GitLab: [@lpmatos](https://gitlab.com/lpmatos)
+> * Linktree: https://linktr.ee/lpmatos
 >
 
 ## ➤ Versioning <a name = "versioning"></a>
