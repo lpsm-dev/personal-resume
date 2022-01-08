@@ -1,0 +1,42 @@
+{
+  "name": "lpmatos-resume",
+  "version": "1.1.4",
+  "description": "This is a simples npm package of my personal resume in a CLI way",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": ">= 12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "format": "prettier --config .prettierrc.json --write \"*.js\" --ignore-path .gitignore",
+    "lint": "eslint \"*.js\" --fix"
+  },
+  "keywords": [
+    "resume",
+    "business card"
+  ],
+  "author": "CI Monk",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "latest",
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "eslint": "8.6.0",
+    "eslint-config-prettier": "6.15.0",
+    "eslint-plugin-prettier": "4.0.0",
+    "prettier": "2.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpmatos/personal-resume.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lpmatos/personal-resume/issues"
+  },
+  "bin": {
+    "lpmatos-resume": "./index.js"
+  }
+}

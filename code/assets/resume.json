@@ -1,0 +1,55 @@
+{
+  "✨ About Me":[
+    "Enthusiast, explorer and lover of DevOps culture, development with Python, NodeJS, Shell Script, PowerShell, Ruby and low level programming with C (OpenMP), automations and cloud. I currently work focused on container orchestration environments, cloud infrastructure, CI/CD pipeline construction for software delivery, git workflow and monitoring environments. I participate in DevOps projects with CI/CD, Infra as Code and GitFlow, managed by agile methodologies (Scrum and Kanban)."
+  ],
+  "🧪 Past Experience": [
+    "DevOps Analyst       | Nuage",
+    "Cloud/DevOps Analyst | STF",
+    "Cloud Trainee        | STF"
+  ],
+  "💨 Tech Skills":[
+    "AWS",
+    "Git",
+    "Infra-as-Code",
+    "Docker",
+    "Kubernetes",
+    "Helm",
+    "Terraform",
+    "Blockchain",
+    "Data Structure",
+    "Python",
+    "Ruby",
+    "Go",
+    "JavaScript"
+  ],
+  "📑 Projects":[
+    "Docker Crypto Miner",
+    "Twitter Realtime Processing Covid",
+    "CLI thar find animes passing scene images",
+    "GitOps using Terraform with the GitLab provider",
+    "Simple python script to cleaning helm releases in features namespaces",
+    "Basic Binary-to-Decimal converter",
+    "JavaScript simple To-Do list",
+    "Recursive clone all projects into a namespace (group) in GitLab Server",
+    "Simple Ruby gem that performan a Lint in your GitLab CI File",
+    "Demonstration RabbitMQ queue, python and Docker",
+    "Script that install and configure Zabbix Agent on Linux or Windows",
+    "AWS Lambda Function to Automate Stop and Start of EC2 Instances",
+    "Search string in file using Parallel Programing (OpenMP)",
+    "Simple project to create a Windows-Linux Keylogger",
+    "Simple Corona Tracker used by command line and integration with Telegram"
+  ],
+  "🔖 Interests": [
+    "Adventure Sports",
+    "Anime",
+    "Camping",
+    "Cooking",
+    "Music",
+    "Beer"
+  ],
+  "🤙 Contact Me":[
+    "Email: ci-monk@protonmail.com",
+    "GitHub: https://github.com/lpmatos",
+    "GitLab: https://gitlab.com/lpmatos"
+  ]
+}
