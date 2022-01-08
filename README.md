@@ -12,9 +12,6 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://github.com/lpmatos/personal-resume)
 [![GitHub repo size](https://img.shields.io/github/repo-size/lpmatos/personal-resume)](https://github.com/lpmatos/personal-resume)
 [![NPM package](https://badge.fury.io/js/resume-cli.svg)](https://www.npmjs.org/package/lpmatos-resume)
-[![GitHub](https://img.shields.io/github/license/lpmatos/personal-resume)](https://github.com/lpmatos/personal-resume/blob/main/LICENSE)
-[![CI Status](https://github.com/lpmatos/personal-resume/actions/workflows/ci.yml/badge.svg)](https://github.com/lpmatos/personal-resume/actions/workflows/ci.yml)
-[![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/lpmatos/personal-resume)](https://github.com/lpmatos/personal-resume)
 
 </div>
 
@@ -120,10 +117,8 @@ docker container run -it --rm ghcr.io/lpmatos/personal-resume:main
 
 ## ➤ Visuals <a name = "visuals"></a>
 
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
 <p align="center">
-  <img alt="logo" src="./assets/cli.png"/>
+  <img alt="CLI Example" src="./assets/cli.png"/>
 </p>
 
 ## ➤ Author <a name = "author"></a>
