@@ -31,6 +31,7 @@
   <a href="#description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#usage">Usage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#versioning">Versioning</a>
 </p>
 
@@ -51,6 +52,10 @@ This will give you access to the code on your **local machine**.
 ## ➤ Description <a name = "description"></a>
 
 Are you an aspiring developer? Want to show off your coding skills. Then here is a CLI of your resume (or you can use it in any innovative way, as you want). This CLI is focused on my resume and skills. It has basics information and can be expanded. The idea it's display this information through the terminal using npx.
+
+<p align="center">
+  <img alt="CLI Example" src="./assets/cli.png" width="550px"/>
+</p>
 
 ### Options
 
@@ -128,11 +133,9 @@ Click [here](https://github.com/lpmatos/personal-resume/pkgs/container/personal-
 </p>
 </details>
 
-## ➤ Visuals <a name = "visuals"></a>
+## ➤ Demo <a name = "demo"></a>
 
-<p align="center">
-  <img alt="CLI Example" src="./assets/cli.png"/>
-</p>
+https://user-images.githubusercontent.com/58797390/148670421-fce972b2-8c13-4358-95ae-cd5ee6ac4d69.mov
 
 ## > Inspirations <a name = "inspirations"></a>
 
