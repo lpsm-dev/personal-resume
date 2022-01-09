@@ -4,7 +4,7 @@
   <img alt="gif-header" src="https://cdn.hackernoon.com/hn-images/0*KyeIBTwEiX6_sE06" width="350px" float="center"/>
 </p>
 
-<h2 align="center">✨ My CLI resume ✨</h2>
+<h2 align="center">✨ Personal CLI resume ✨</h2>
 
 <div align="center">
 
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  👽 This is a simples npm package of my resume in a CLI way 👽
+  👽 This is a simples npm package of my tech resume in a CLI way 👽
 </p>
 
 <p align="center">
