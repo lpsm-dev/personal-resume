@@ -23,10 +23,14 @@ jobs:
         with:
           node-version: 'lts/*'
 
+      - name: Get version
+        run: |
+          echo "VERSION=${{ github.event.inputs.npm-tag }}" >> $GITHUB_ENV
+
       - name: Install and Push
         run: |
           cd ./code
           npm install
           npm install -g @jsdevtools/npm-publish
-          sed  -i '/version/s/[^.]*$/'"${{ github.event.inputs.npm-tag }}\"/" package.json
+          sed  -i '/version/s/[^.]*$/'"${VERSION}\"/" package.json
           npm-publish --token=${{ secrets.NPM_TOKEN }} package.json
