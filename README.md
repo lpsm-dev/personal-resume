@@ -12,7 +12,7 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://github.com/lpmatos/personal-resume)
 [![GitHub repo size](https://img.shields.io/github/repo-size/lpmatos/personal-resume)](https://github.com/lpmatos/personal-resume)
 [![NPM package](https://badge.fury.io/js/resume-cli.svg)](https://www.npmjs.org/package/ci-monk)
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/lpmatos/personal-cli)
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/lpmatos/personal-resume)
 
 </div>
 
