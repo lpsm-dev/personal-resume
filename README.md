@@ -4,7 +4,7 @@
   <img alt="gif-header" src="https://github.com/lpmatos/personal-resume/blob/main/assets/coding.gif" width="350px" float="center"/>
 </p>
 
-<h2 align="center">✨ Personal CLI resume ✨</h2>
+<h2 align="center">✨ Personal resume ✨</h2>
 
 <div align="center">
 
