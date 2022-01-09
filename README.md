@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img alt="gif-about" src="https://i.stack.imgur.com/niIU6.gif" width="450px" float="center"/>
+  <img alt="gif-about" src="https://thumbs.gfycat.com/CoarseSeriousCommongonolek-size_restricted.gif" width="450px" float="center"/>
 </p>
 
 <p align="center">
