@@ -5,7 +5,7 @@ on:
     inputs:
       npm-tag:
         description: NPM Tag
-        default: 1.0.0
+        default: v1.0.0
         required: true
 
 jobs:
