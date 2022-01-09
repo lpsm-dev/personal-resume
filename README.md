@@ -154,7 +154,7 @@ Currently the project is constantly being updated 👾.
 
 ## ➤ Donations <a name = "donations"></a>
 
-Please consider [donating to the xmrig team](https://github.com/xmrig/xmrig#donations), and if you find this docker image useful, donations for work on dockerizing the build and mining app are appreciated at any of the following addresses:
+If my work has impacted your life in a positive way and you'd like to buy me a coffee (or a hundred), that'd be much appreciated!
 
 <p align="center">
   <a href="https://www.blockchain.com/pt/btc/address/bc1qn50elv826qs2qd6xhfh6n79649epqyaqmtwky5">
