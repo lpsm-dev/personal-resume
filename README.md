@@ -153,6 +153,14 @@ https://user-images.githubusercontent.com/58797390/148670421-fce972b2-8c13-4358-
 
 To check the change history, please access the [**CHANGELOG.md**](CHANGELOG.md) file.
 
+## ➤ Learnings <a name = "learnings"></a>
+
+* Setup a NPM publish pipeline using github actions.
+* Setup a Docker build + scan pipeline using github actions.
+* Create a node setup project to create a CLI.
+* Create a release flow in github actions.
+* Create a multistage node Dockerfile.
+
 ## ➤ Project status <a name = "project-status"></a>
 
 Project completed and will not be constantly updated! 👋
