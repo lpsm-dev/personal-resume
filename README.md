@@ -1,7 +1,7 @@
 <div align="center">
 
 <p>
-  <img alt="gif-header" src="https://cdn.hackernoon.com/hn-images/0*KyeIBTwEiX6_sE06" width="350px" float="center"/>
+  <img alt="gif-header" src="https://github.com/lpmatos/personal-resume/blob/main/assets/coding.gif" width="350px" float="center"/>
 </p>
 
 <h2 align="center">✨ Personal CLI resume ✨</h2>
@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img alt="gif-about" src="https://thumbs.gfycat.com/CoarseSeriousCommongonolek-size_restricted.gif" width="450px" float="center"/>
+  <img alt="gif-about" src="https://github.com/lpmatos/personal-resume/blob/main/assets/hey.gif" width="450px" float="center"/>
 </p>
 
 <p align="center">
