@@ -19,11 +19,11 @@ var resumePrompts = {
 function resumeHandler() {
   inquirer
     .prompt(resumePrompts)
-    .then(answer => {
+    .then((answer) => {
       if (answer.resumeOptions == 'Exit') return;
       let option = answer.resumeOptions;
       console.log(response('--------------------------------------------------'));
-      resume[`${option}`].forEach(info => {
+      resume[`${option}`].forEach((info) => {
         console.log(response('|   => ' + info));
       });
       console.log(response('--------------------------------------------------'));
@@ -34,7 +34,7 @@ function resumeHandler() {
           message: 'Go back or Exit?',
           choices: ['Back', 'Exit'],
         })
-        .then(choice => {
+        .then((choice) => {
           if (choice.exitBack == 'Back') {
             resumeHandler();
           } else {
