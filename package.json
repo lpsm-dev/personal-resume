@@ -27,5 +27,8 @@
     "commitizen": "4.2.4",
     "mega-linter-runner": "5.5.0",
     "semantic-release": "18.0.1"
+  },
+  "resolutions": {
+    "ansi-regex": "^6.0.0"
   }
 }
