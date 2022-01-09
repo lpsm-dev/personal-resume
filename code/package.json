@@ -37,6 +37,6 @@
     "url": "https://github.com/lpmatos/personal-resume/issues"
   },
   "bin": {
-    "lpmatos-resume": "./index.js"
+    "ci-monk": "./index.js"
   }
 }
