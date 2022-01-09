@@ -8,6 +8,7 @@
     "node": ">= 12"
   },
   "scripts": {
+    "preinstall": "npx npm-force-resolutions",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "format": "prettier --config .prettierrc.json --write \"*.js\" --ignore-path .gitignore",
