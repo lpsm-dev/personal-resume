@@ -32,5 +32,6 @@ jobs:
           cd ./code
           npm install
           npm install -g @jsdevtools/npm-publish
+          echo "New version is $VERSION"
           sed -e 's/"version": [^\"]*"/"version": "${VERSION}"/g' package.json
           npm-publish --token=${{ secrets.NPM_TOKEN }} package.json
