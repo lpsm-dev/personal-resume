@@ -137,7 +137,7 @@ Click [here](https://github.com/lpmatos/personal-resume/pkgs/container/personal-
 
 https://user-images.githubusercontent.com/58797390/148670421-fce972b2-8c13-4358-95ae-cd5ee6ac4d69.mov
 
-## > Inspirations <a name = "inspirations"></a>
+## ➤ Inspirations <a name = "inspirations"></a>
 
 * Thanks [@Neha](https://github.com/Neha/resume-cli) for sharing your project.
 
