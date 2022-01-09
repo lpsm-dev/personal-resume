@@ -11,7 +11,7 @@
 [![Semantic Release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/lpmatos/personal-resume)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://github.com/lpmatos/personal-resume)
 [![GitHub repo size](https://img.shields.io/github/repo-size/lpmatos/personal-resume)](https://github.com/lpmatos/personal-resume)
-[![NPM package](https://badge.fury.io/js/resume-cli.svg)](https://www.npmjs.org/package/lpmatos-resume)
+[![NPM package](https://badge.fury.io/js/resume-cli.svg)](https://www.npmjs.org/package/ci-monk)
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/lpmatos/personal-cli)
 
 </div>
