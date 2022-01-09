@@ -72,7 +72,7 @@ docker pull ghcr.io/lpmatos/personal-resume:main
 or
 
 ```bash
-npx lpmatos-resume
+npx ci-monk
 ```
 
 ## ➤ Usage <a name = "usage"></a>
@@ -104,7 +104,7 @@ node index.js
 Published npm Package execution method:
 
 ```bash
-npx lpmatos-resume
+npx ci-monk
 ```
 </p>
 </details>
