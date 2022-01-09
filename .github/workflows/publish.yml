@@ -23,7 +23,7 @@ jobs:
           node-version: 'lts/*'
 
       - name: Install dependencies
-        run: npm install
+        run: cd ./code && npm install
 
       - name: Publish
         uses: JS-DevTools/npm-publish@v1
@@ -32,6 +32,7 @@ jobs:
           token: ${{ secrets.NPM_TOKEN }}
           tag: ${{ github.event.inputs.npm-tag }}
           check-version: true
+          package: ./code/package.json
 
       - if: steps.publish.outputs.type != 'none'
         run: |
