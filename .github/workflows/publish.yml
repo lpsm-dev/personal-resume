@@ -1,4 +1,4 @@
-name: Publish
+name: NPM Publish
 
 on:
   workflow_dispatch:
@@ -9,8 +9,8 @@ on:
         required: true
 
 jobs:
-  publish:
-    name: Publish NPM
+  npm-publish:
+    name: Publish
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
