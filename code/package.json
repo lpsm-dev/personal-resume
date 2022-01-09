@@ -8,7 +8,7 @@
     "node": ">= 12"
   },
   "scripts": {
-    "preinstall": "([ ! -f package-lock.json ] && npm install --package-lock-only --ignore-scripts --no-audit); npx npm-force-resolutions",
+    "preinstall": "([ ! -f package-lock.json ] && npm install --package-lock-only --ignore-scripts --no-audit); npx force-resolutions",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "format": "prettier --config .prettierrc.json --write \"*.js\" --ignore-path .gitignore",
