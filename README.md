@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  👽 his is a simples npm package of my personal resume in a CLI way 👽
+  👽 This is a simples npm package of my personal resume in a CLI way 👽
 </p>
 
 <p align="center">
@@ -45,16 +45,6 @@ If you want contribute on this project, first you need to make a **git clone**:
 >
 
 This will give you access to the code on your **local machine**.
-
-## ➤ Patterns and Tools <a name = "techs"></a>
-
-In this project i'm using:
-
-- JavaScript and NPM,
-- Docker containers,
-- GitHub Actions,
-- Pre-commit, hadolint, trivy, snyk and gitleaks,
-- Conventional commits and Semantic release.
 
 ## ➤ Description <a name = "description"></a>
 
