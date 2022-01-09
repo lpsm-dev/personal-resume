@@ -2,7 +2,6 @@
   "_comment": "this project is not a node.js one, package.json is just used to define some metadata",
   "scripts": {
     "cm": "git cz",
-    "lint": "mega-linter-runner -p . --fix",
     "secrets": "gitleaks detect -s . -c .github/config/.gitleaks.toml"
   },
   "commitlint": {
@@ -25,7 +24,6 @@
     "@semantic-release/gitlab": "7.0.4",
     "@semantic-release/release-notes-generator": "10.0.3",
     "commitizen": "4.2.4",
-    "mega-linter-runner": "5.5.0",
     "semantic-release": "18.0.1"
   }
 }
