@@ -1,11 +1,20 @@
 {
   "✨ About Me":[
-    "Enthusiast, explorer and lover of DevOps culture, development with Python, NodeJS, Shell Script, PowerShell, Ruby and low level programming with C (OpenMP), automations and cloud. I currently work focused on container orchestration environments, cloud infrastructure, CI/CD pipeline construction for software delivery, git workflow and monitoring environments. I participate in DevOps projects with CI/CD, Infra as Code and GitFlow, managed by agile methodologies (Scrum and Kanban)."
+    "Enthusiast, explorer and lover of DevOps culture, development with Python, NodeJS, Shell Script, PowerShell, Ruby and low level programming with C (OpenMP), automation and cloud. I currently work focused on container orchestration environments, cloud infrastructure, CI/CD pipeline construction for software delivery, git workflow and monitoring environments. I participate in DevOps projects with CI/CD, Infra as Code and GitFlow, managed by agile methodologies (Scrum and Kanban)."
   ],
   "🧪 Past Experience": [
     "DevOps Analyst       | Nuage",
-    "Cloud/DevOps Analyst | STF",
-    "Cloud Trainee        | STF"
+    "Cloud/DevOps Analyst | Stefanini",
+    "Cloud Trainee        | Stefanini"
+  ],
+  "💻 Programming":[
+    "C",
+    "Bash",
+    "PowerShell",
+    "Python",
+    "Ruby",
+    "GoLang",
+    "JavaScript"
   ],
   "💨 Tech Skills":[
     "AWS",
@@ -16,11 +25,7 @@
     "Helm",
     "Terraform",
     "Blockchain",
-    "Data Structure",
-    "Python",
-    "Ruby",
-    "Go",
-    "JavaScript"
+    "Data Structure"
   ],
   "📑 Projects":[
     "Docker Crypto Miner",
@@ -31,7 +36,7 @@
     "Basic Binary-to-Decimal converter",
     "JavaScript simple To-Do list",
     "Recursive clone all projects into a namespace (group) in GitLab Server",
-    "Simple Ruby gem that performan a Lint in your GitLab CI File",
+    "Simple Ruby gem that performs a Lint in your GitLab CI File",
     "Demonstration RabbitMQ queue, python and Docker",
     "Script that install and configure Zabbix Agent on Linux or Windows",
     "AWS Lambda Function to Automate Stop and Start of EC2 Instances",
@@ -43,13 +48,15 @@
     "Adventure Sports",
     "Anime",
     "Camping",
-    "Cooking",
     "Music",
     "Beer"
   ],
   "🤙 Contact Me":[
     "Email: ci-monk@protonmail.com",
-    "GitHub: https://github.com/lpmatos",
-    "GitLab: https://gitlab.com/lpmatos"
+    "Linktree: https://linktr.ee/lpmatos"
+  ],
+  "💸 Donations":[
+    "BTC: bc1qn50elv826qs2qd6xhfh6n79649epqyaqmtwky5",
+    "LTC: ltc1qwzrxmlmzzx68k2dnrcrplc4thadm75khzrznjw"
   ]
 }

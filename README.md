@@ -12,6 +12,7 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://github.com/lpmatos/personal-resume)
 [![GitHub repo size](https://img.shields.io/github/repo-size/lpmatos/personal-resume)](https://github.com/lpmatos/personal-resume)
 [![NPM package](https://badge.fury.io/js/resume-cli.svg)](https://www.npmjs.org/package/lpmatos-resume)
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/lpmatos/personal-cli)
 
 </div>
 
@@ -22,7 +23,7 @@
 </p>
 
 <p align="center">
-  ✨ This is a simples npm package of my personal resume in a CLI way ✨
+  👽 his is a simples npm package of my personal resume in a CLI way 👽
 </p>
 
 <p align="center">
@@ -61,12 +62,28 @@ Are you an aspiring developer? Want to show off your coding skills. Then here is
 
 ### Options
 
+As of now there are below options:
+
 - ✨ About Me
 - 🧪 Past Experience
+- 💻 Programming
 - 💨 Tech Skills
 - 📑 Projects
 - 🔖 Interests
 - 🤙 Contact Me
+- 💸 Donations
+
+## Installation
+
+```bash
+docker pull ghcr.io/lpmatos/personal-resume:main
+```
+
+or
+
+```bash
+npx lpmatos-resume
+```
 
 ## ➤ Usage <a name = "usage"></a>
 
@@ -107,11 +124,15 @@ npx lpmatos-resume
 <details><summary>Container</summary>
 <p>
 
-Running a container:
+To run the docker container:
 
 ```bash
-docker container run -it --rm ghcr.io/lpmatos/personal-resume:main
+docker container run \
+  -it --rm --name personal-resume \
+  ghcr.io/lpmatos/personal-resume:main
 ```
+
+Click [here](https://github.com/lpmatos/personal-resume/pkgs/container/personal-resume/versions) to see available image tags.
 </p>
 </details>
 
@@ -120,6 +141,10 @@ docker container run -it --rm ghcr.io/lpmatos/personal-resume:main
 <p align="center">
   <img alt="CLI Example" src="./assets/cli.png"/>
 </p>
+
+## > Inspirations <a name = "inspirations"></a>
+
+* Thanks [@Neha](https://github.com/Neha/resume-cli) for sharing your project.
 
 ## ➤ Author <a name = "author"></a>
 
