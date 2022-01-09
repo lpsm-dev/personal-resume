@@ -1,11 +1,11 @@
 # --------------> The base image
-FROM node:17.3.0-alpine3.14 AS build
+FROM node:lts-alpine3.15 AS build
 WORKDIR /usr/src/app
 COPY [ "./code/package.json", "/usr/src/app" ]
 RUN yarn install
 
 # --------------> The production image
-FROM node:17.3.0-alpine3.14
+FROM node:lts-alpine3.15
 RUN apk add --no-cache dumb-init=1.2.5-r1 && \
     arch && sleep 10 && uname -ra && sleep 10
 WORKDIR /usr/src/app
