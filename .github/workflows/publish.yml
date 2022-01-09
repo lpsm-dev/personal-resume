@@ -28,4 +28,5 @@ jobs:
           cd ./code
           npm install
           npm install -g @jsdevtools/npm-publish
+          sed  -i '/version/s/[^.]*$/'"${{ github.event.inputs.npm-tag }}\"/" package.json
           npm-publish --token=${{ secrets.NPM_TOKEN }} package.json
