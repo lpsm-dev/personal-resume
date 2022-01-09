@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  👽 This is a simples npm package of my personal resume in a CLI way 👽
+  👽 This is a simples npm package of my resume in a CLI way 👽
 </p>
 
 <p align="center">
