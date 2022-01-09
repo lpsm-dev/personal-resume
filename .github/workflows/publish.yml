@@ -1,15 +1,16 @@
-name: Publish NPM
+name: Publish
 
 on:
   workflow_dispatch:
     inputs:
       npm-tag:
         description: NPM Tag
-        default: v1.0.0
+        default: 1.0.0
         required: true
 
 jobs:
   publish:
+    name: Publish NPM
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
