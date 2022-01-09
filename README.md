@@ -29,7 +29,8 @@
 <p align="center">
   <a href="#getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#usage">Usage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#versioning">Versioning</a>
 </p>
 
@@ -64,7 +65,7 @@ As of now there are below options:
 - 🤙 Contact Me
 - 💸 Donations
 
-## Installation
+## ➤ Installation <a name = "installation"></a>
 
 ```bash
 docker pull ghcr.io/lpmatos/personal-resume:main
