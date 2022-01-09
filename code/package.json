@@ -1,5 +1,5 @@
 {
-  "name": "lpmatos-resume",
+  "name": "ci-monk",
   "version": "1.0.0",
   "description": "This is a simples npm package of my personal resume in a CLI way",
   "main": "index.js",
