@@ -63,7 +63,6 @@ id = "SSH-EC-PK"
 description = "SSH (EC) private key"
 regex = '''-----BEGIN EC PRIVATE KEY-----'''
 
-
 [[rules]]
 id = "github-app-token"
 description = "Github App Token"
