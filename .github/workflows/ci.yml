@@ -16,7 +16,7 @@ jobs:
           fetch-depth: 0
 
       - name: Secret Detection
-        uses: zricethezav/gitleaks-action@518e4898c0cd1cc5d9aab6627a2eabd46e81d8da
+        uses: zricethezav/gitleaks-action@c367d6d908e10706b7f72b64733554e29eb1843d
         with:
           config-path: ${{ github.workspace }}/.github/config/.gitleaks.toml
         continue-on-error: false
