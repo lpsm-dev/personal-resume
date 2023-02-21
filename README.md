@@ -1,25 +1,19 @@
 <div align="center">
 
-<p>
-  <img alt="gif-header" src="https://github.com/lpmatos/personal-resume/blob/main/assets/coding.gif" width="350px" float="center"/>
-</p>
+<img alt="gif-header" src="https://github.com/lpmatos/personal-resume/blob/main/assets/coding.gif" width="350px"/>
 
 <h2 align="center">✨ Personal resume ✨</h2>
 
 <div align="center">
 
-git 
 [![GitHub repo size](https://img.shields.io/github/repo-size/lpmatos/personal-resume)](https://github.com/lpmatos/personal-resume)
 [![NPM package](https://badge.fury.io/js/resume-cli.svg)](https://www.npmjs.org/package/ci-monk)
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/lpmatos/personal-resume)
 
 </div>
 
 ---
 
-<p align="center">
-  <img alt="gif-about" src="https://github.com/lpmatos/personal-resume/blob/main/assets/hey.gif" width="450px" float="center"/>
-</p>
+<img alt="gif-about" src="https://github.com/lpmatos/personal-resume/blob/main/assets/hey.gif" width="450px" float="center"/>
 
 <p align="center">
   👽 This is a simples npm package of my tech resume in a CLI way 👽
@@ -184,9 +178,7 @@ If my work has impacted your life in a positive way and you'd like to buy me a c
 
 Give me a ⭐️ if this project helped you!
 
-<p>
-  <img alt="gif-header" src="https://www.icegif.com/wp-content/uploads/baby-yoda-bye-bye-icegif.gif" width="350px" float="center"/>
-</p>
+<img alt="gif-header" src="https://www.icegif.com/wp-content/uploads/baby-yoda-bye-bye-icegif.gif" width="350px" float="center"/>
 
 Made with 💜 by [me](https://github.com/lpmatos) 👋 inspired on [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
 
