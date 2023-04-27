@@ -84,13 +84,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Dive
-        uses: yuichielectric/dive-action@0.0.4
-        with:
-          image: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ github.event.inputs.git-tag }}
-          config-file: ${{ github.workspace }}/.github/config/.dive-ci.yml
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Run Trivy vulnerability scanner
         id: trivy
         uses: aquasecurity/trivy-action@master
