@@ -1,8 +1,8 @@
 <div align="center">
 
-<img alt="gif-header" src="https://github.com/lpmatos/personal-resume/blob/main/assets/coding.gif" width="350px"/>
+<img alt="gif-header" src="https://github.com/lpmatos/personal-resume/blob/main/assets/coding.gif" width="350"/>
 
-<h2 align="center">✨ Personal resume ✨</h2>
+<h2>✨ Personal resume ✨</h2>
 
 <div align="center">
 
@@ -13,11 +13,9 @@
 
 ---
 
-<img alt="gif-about" src="https://github.com/lpmatos/personal-resume/blob/main/assets/hey.gif" width="450px" float="center"/>
+<img alt="gif-about" src="https://github.com/lpmatos/personal-resume/blob/main/assets/hey.gif" width="450"/>
 
-<p align="center">
-  👽 This is a simples npm package of my tech resume in a CLI way 👽
-</p>
+<p>👽 This is a simples npm package of my tech resume in a CLI way 👽</p>
 
 <p align="center">
   <a href="#getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -32,7 +30,7 @@
 
 ---
 
-## ➤ Getting Started <a name = "getting-started"></a>
+## ➤ Getting Started
 
 If you want contribute on this project, first you need to make a **git clone**:
 
@@ -42,12 +40,12 @@ If you want contribute on this project, first you need to make a **git clone**:
 
 This will give you access to the code on your **local machine**.
 
-## ➤ Description <a name = "description"></a>
+## ➤ Description
 
 Are you an aspiring developer? Want to show off your coding skills. Then here is a CLI of your resume (or you can use it in any innovative way, as you want). This CLI is focused on my resume and skills. It has basics information and can be expanded. The idea it's display this information through the terminal using npx.
 
 <p align="center">
-  <img alt="CLI Example" src="./assets/cli.png" width="550px"/>
+  <img alt="CLI Example" src="./assets/cli.png" width="550"/>
 </p>
 
 ### Options
@@ -63,7 +61,7 @@ As of now there are below options:
 - 🤙 Contact Me
 - 💸 Donations
 
-## ➤ Installation <a name = "installation"></a>
+## ➤ Installation
 
 ```bash
 docker pull ghcr.io/lpmatos/personal-resume:main
@@ -75,15 +73,15 @@ or
 npx ci-monk
 ```
 
-## ➤ Usage <a name = "usage"></a>
+## ➤ Usage
 
 Ways to run and use this project.
 
 ### Node
 
-<details><summary>Local</summary>
+<details>
+<summary>Local</summary>
 <p>
-
 Local execution method:
 
 ```bash
@@ -98,7 +96,8 @@ node index.js
 </p>
 </details>
 
-<details><summary>Published</summary>
+<details>
+<summary>Published</summary>
 <p>
 
 Published npm Package execution method:
@@ -111,9 +110,9 @@ npx ci-monk
 
 ### Docker
 
-<details><summary>Container</summary>
+<details>
+<summary>Container</summary>
 <p>
-
 To run the docker container:
 
 ```bash
@@ -126,7 +125,7 @@ Click [here](https://github.com/lpmatos/personal-resume/pkgs/container/personal-
 </p>
 </details>
 
-## ➤ Demo <a name = "demo"></a>
+## ➤ Demo
 
 https://user-images.githubusercontent.com/58797390/148670421-fce972b2-8c13-4358-95ae-cd5ee6ac4d69.mov
 
@@ -134,7 +133,7 @@ https://user-images.githubusercontent.com/58797390/148670421-fce972b2-8c13-4358-
 
 * Thanks [@Neha](https://github.com/Neha/resume-cli) for sharing your project.
 
-## ➤ Author <a name = "author"></a>
+## ➤ Author
 
 👤 Hey!! If you like this project or if you find some bugs feel free to contact me in my channels:
 
@@ -142,11 +141,11 @@ https://user-images.githubusercontent.com/58797390/148670421-fce972b2-8c13-4358-
 > * Linktree: https://linktr.ee/lpmatos
 >
 
-## ➤ Versioning <a name = "versioning"></a>
+## ➤ Versioning
 
 To check the change history, please access the [**CHANGELOG.md**](CHANGELOG.md) file.
 
-## ➤ Learnings <a name = "learnings"></a>
+## ➤ Learnings
 
 * Setup a NPM publish pipeline using github actions.
 * Setup a Docker build + scan pipeline using github actions.
@@ -154,31 +153,17 @@ To check the change history, please access the [**CHANGELOG.md**](CHANGELOG.md) 
 * Create a release flow in github actions.
 * Create a multistage node Dockerfile.
 
-## ➤ Project status <a name = "project-status"></a>
+## ➤ Project status
 
 Project completed and will not be constantly updated! 👋
 
-## ➤ Donations <a name = "donations"></a>
-
-If my work has impacted your life in a positive way and you'd like to buy me a coffee (or a hundred), that'd be much appreciated!
-
-<p align="center">
-  <a href="https://www.blockchain.com/pt/btc/address/bc1qn50elv826qs2qd6xhfh6n79649epqyaqmtwky5">
-    <img alt="BTC Address" src="https://img.shields.io/badge/BTC%20Address-black?style=for-the-badge&logo=bitcoin&logoColor=white">
-  </a>
-
-  <a href="https://live.blockcypher.com/ltc/address/ltc1qwzrxmlmzzx68k2dnrcrplc4thadm75khzrznjw/">
-    <img alt="LTC Address" src="https://img.shields.io/badge/LTC%20Address-black?style=for-the-badge&logo=litecoin&logoColor=white">
-  </a>
-</p>
-
-## ➤ Show your support <a name = "show-your-support"></a>
+## ➤ Show your support
 
 <div align="center">
 
 Give me a ⭐️ if this project helped you!
 
-<img alt="gif-header" src="https://www.icegif.com/wp-content/uploads/baby-yoda-bye-bye-icegif.gif" width="350px" float="center"/>
+<img alt="gif-header" src="https://www.icegif.com/wp-content/uploads/baby-yoda-bye-bye-icegif.gif" width="350"/>
 
 Made with 💜 by [me](https://github.com/lpmatos) 👋 inspired on [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
 
