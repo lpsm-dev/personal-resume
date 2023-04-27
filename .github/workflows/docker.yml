@@ -1,9 +1,12 @@
 name: Docker image
 
 on:
-  push:
-    branches:
-      - "*"
+  workflow_dispatch:
+    inputs:
+      git-tag:
+        description: Git Tag
+        default: 1.0.0
+        required: true
 
 env:
   REGISTRY: ghcr.io
