@@ -1,5 +1,16 @@
 # Semantic Versioning Changelog
 
+## [1.2.1](https://github.com/lpmatos/personal-resume/compare/1.2.0...1.2.1) (2023-04-27)
+
+
+### :bug: Fixes
+
+* ci name ([82f9fcc](https://github.com/lpmatos/personal-resume/commit/82f9fcc00cdcfd6a9406c3d31742841ac842013c))
+* definitions smr ([43445bf](https://github.com/lpmatos/personal-resume/commit/43445bfb09b6fa599fa63d7a8b0e7cfa86d2ca52))
+* gitleaks ci vars ([39078df](https://github.com/lpmatos/personal-resume/commit/39078df282da320ff3648d65beb6c59850d68b07))
+* identation yaml file ([75e8fa2](https://github.com/lpmatos/personal-resume/commit/75e8fa270e4aada2f7510c6817f9a106b551db0c))
+* remame ci file ([fb66657](https://github.com/lpmatos/personal-resume/commit/fb6665728e9fd969db0d04623e5e497dd8157c5e))
+
 ## [1.2.0](https://github.com/lpmatos/personal-resume/compare/1.1.0...1.2.0) (2023-04-27)
 
 
