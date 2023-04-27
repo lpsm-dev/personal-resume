@@ -1,0 +1,64 @@
+{
+  "✨ About Me":[
+    "Enthusiast, explorer and lover of DevOps culture, development with scripting languages (Python, Golango, Ruby, Shell Script, PowerShell, Ruby), automation and cloud. Currently I work mainly with container orchestration environments, cloud infrastructure, CI/CD pipeline construction for software delivery, platform engineering and system monitoring. I participate in DevOps/GitOps projects with CI/CD, secrets management, infra as code and git branching workflow, managed by agile methodologies (Scrum and Kanban)."
+  ],
+  "🧪 Past Experience": [
+    "DevOps Engineer      | NuageIT",
+    "DevOps Analyst       | NuageIT",
+    "Cloud/DevOps Analyst | Stefanini",
+    "Cloud Trainee        | Stefanini"
+  ],
+  "💻 Programming":[
+    "C",
+    "Bash",
+    "PowerShell",
+    "Python",
+    "Ruby",
+    "GoLang",
+    "JavaScript",
+    "Typescript"
+  ],
+  "💨 Tech Skills":[
+    "AWS",
+    "Git",
+    "Infra-as-Code",
+    "Docker",
+    "Kubernetes",
+    "Helm",
+    "Terraform",
+    "Blockchain",
+    "Data Structure"
+  ],
+  "📑 Projects":[
+    "Docker Crypto Miner",
+    "Twitter Realtime Processing Covid",
+    "CLI thar find animes passing scene images",
+    "GitOps using Terraform with the GitLab provider",
+    "Simple python script to cleaning helm releases in features namespaces",
+    "Basic Binary-to-Decimal converter",
+    "JavaScript simple To-Do list",
+    "Recursive clone all projects into a namespace (group) in GitLab Server",
+    "Simple Ruby gem that performs a Lint in your GitLab CI File",
+    "Demonstration RabbitMQ queue, python and Docker",
+    "Script that install and configure Zabbix Agent on Linux or Windows",
+    "AWS Lambda Function to Automate Stop and Start of EC2 Instances",
+    "Search string in file using Parallel Programing (OpenMP)",
+    "Simple project to create a Windows-Linux Keylogger",
+    "Simple Corona Tracker used by command line and integration with Telegram"
+  ],
+  "🔖 Interests": [
+    "Adventure Sports",
+    "Anime",
+    "Camping",
+    "Music",
+    "Beer",
+    "Travel"
+  ],
+  "🤙 Contact Me":[
+    "Email: lpsm-dev@protonmail.com",
+    "Linktree: https://linktr.ee/lpmatos"
+  ],
+  "💸 Donations":[
+    "BTC: bc1qn50elv826qs2qd6xhfh6n79649epqyaqmtwky5"
+  ]
+}

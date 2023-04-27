@@ -1,0 +1,45 @@
+{
+  "name": "lpsm-dev",
+  "version": "1.0.0",
+  "description": "This is a simples npm package of my personal resume in a CLI way",
+  "author": "Lucca Matos",
+  "license": "MIT",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": ">= 18"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "format": "prettier --config .prettierrc.json --write \"*.js\" --ignore-path .gitignore",
+    "lint": "eslint \"*.js\" --fix"
+  },
+  "keywords": [
+    "resume",
+    "business card"
+  ],
+  "dependencies": {
+    "chalk": "latest",
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "eslint": "8.39.0",
+    "eslint-config-prettier": "6.15.0",
+    "eslint-plugin-prettier": "4.0.0",
+    "prettier": "2.8.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpsm-dev/personal-resume.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lpsm-dev/personal-resume/issues"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "bin": {
+    "lpsm-dev": "./index.js"
+  }
+}
