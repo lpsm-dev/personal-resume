@@ -1,4 +1,4 @@
-name: Semantic Release
+name: Manual - Semantic Release
 
 on:
   workflow_dispatch:
