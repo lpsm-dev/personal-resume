@@ -1,4 +1,4 @@
-name: DockerImage
+name: Docker Build
 
 on:
   workflow_dispatch:
@@ -45,7 +45,7 @@ jobs:
           echo "Flags:     ${{ steps.buildx.outputs.flags }}"
           echo "Platforms: ${{ steps.buildx.outputs.platforms }}"
 
-      - name: Login to GitHub Container Registry
+      - name: Login to GHCR
         uses: docker/login-action@v2
         with:
           registry: ${{ env.REGISTRY }}
