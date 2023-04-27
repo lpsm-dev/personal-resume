@@ -131,12 +131,6 @@
       }
     ],
     [
-      "@semantic-release/github",
-      {
-        "addReleases": "top"
-      }
-    ],
-    [
       "@semantic-release/changelog",
       {
         "changelogFile": "CHANGELOG.md",
