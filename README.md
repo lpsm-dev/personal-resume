@@ -15,10 +15,9 @@
 
 <img alt="gif-about" src="https://github.com/lpmatos/personal-resume/blob/main/assets/hey.gif" width="300"/>
 
-<p>👽 This is a simples npm package of my tech resume in a CLI way 👽</p>
+<p>This is a simples npm package of my tech resume in a CLI way</p>
 
 <p align="center">
-  <a href="#getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#usage">Usage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -29,16 +28,6 @@
 </div>
 
 ---
-
-## ➤ Getting Started
-
-If you want contribute on this project, first you need to make a **git clone**:
-
->
-> 1. git clone --depth 1 <https://github.com/personal-resume.git> -b main
->
-
-This will give you access to the code on your **local machine**.
 
 ## ➤ Description
 
