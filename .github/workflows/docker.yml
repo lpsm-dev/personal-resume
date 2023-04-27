@@ -93,10 +93,12 @@ jobs:
         uses: aquasecurity/trivy-action@master
         with:
           image-ref: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ github.event.inputs.git-tag }}
-          format: table
-          vuln-type: os,library
+          format: sarif
+          vuln-type: 'os,library'
+          output: trivy-results.sarif
 
       - name: Upload Trivy scan results to GitHub Security tab
         uses: github/codeql-action/upload-sarif@v2
+        if: always()
         with:
           sarif_file: trivy-results.sarif
