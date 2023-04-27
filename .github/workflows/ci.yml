@@ -18,7 +18,9 @@ jobs:
       - name: Secret Detection
         uses: gitleaks/gitleaks-action@v2
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITLEAKS_CONFIG: ${{ github.workspace }}/.github/config/.gitleaks.toml
+          GITLEAKS_ENABLE_COMMENTS: true
         continue-on-error: false
 
       - name: Hadolint
