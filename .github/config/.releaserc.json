@@ -137,6 +137,7 @@
         "changelogTitle": "# Semantic Versioning Changelog"
       }
     ],
+    "@semantic-release/npm",
     [
       "@semantic-release/git",
       {
