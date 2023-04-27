@@ -27,7 +27,7 @@ jobs:
         if: github.event.inputs.git-ref == 'main'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci --cache .npm --prefer-offline
         if: github.event.inputs.git-ref == 'main'
 
       - name: Release

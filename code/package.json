@@ -36,6 +36,9 @@
   "bugs": {
     "url": "https://github.com/lpmatos/personal-resume/issues"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "bin": {
     "ci-monk": "./index.js"
   }
