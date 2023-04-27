@@ -88,7 +88,7 @@ jobs:
         uses: yuichielectric/dive-action@0.0.4
         with:
           image: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ github.event.inputs.git-tag }}
-          config-file: ${{ github.workspace }}/.dive-ci.yml
+          config-file: ${{ github.workspace }}/config/.dive-ci.yml
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Run Trivy vulnerability scanner
@@ -96,11 +96,11 @@ jobs:
         uses: aquasecurity/trivy-action@master
         with:
           image-ref: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ github.event.inputs.git-tag }}
-          format: 'template'
+          format: template
           template: '@/contrib/sarif.tpl'
-          output: 'trivy-results.sarif'
+          output: trivy-results.sarif
 
       - name: Upload Trivy scan results to GitHub Security tab
         uses: github/codeql-action/upload-sarif@v1
         with:
-          sarif_file: 'trivy-results.sarif'
+          sarif_file: trivy-results.sarif
