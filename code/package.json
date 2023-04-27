@@ -24,10 +24,10 @@
     "inquirer": "^8.2.0"
   },
   "devDependencies": {
-    "eslint": "8.6.0",
+    "eslint": "8.39.0",
     "eslint-config-prettier": "6.15.0",
     "eslint-plugin-prettier": "4.0.0",
-    "prettier": "2.5.1"
+    "prettier": "2.8.8"
   },
   "repository": {
     "type": "git",
