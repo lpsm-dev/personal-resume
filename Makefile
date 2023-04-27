@@ -1,3 +1,11 @@
+MAKEFLAGS += --warn-undefined-variables
+
+SHELL := /usr/bin/env bash
+
+# ================================================
+# SHORTCUTS
+# ================================================
+
 default: help
 
 .PHONY: help
@@ -15,3 +23,7 @@ hooks: # Setup pre-commit hooks
 .PHONY: hooks-run
 hooks-run: # Run all pre-commit hooks
 	pre-commit run --all-file
+
+.PHONY: run-gitleaks
+run-gitleaks: # Run secret-detection
+	gitleaks detect -c .github/config/.gitleaks.toml --verbose  .

@@ -1,9 +1,10 @@
 {
   "✨ About Me":[
-    "Enthusiast, explorer and lover of DevOps culture, development with Python, NodeJS, Shell Script, PowerShell, Ruby and low level programming with C (OpenMP), automation and cloud. I currently work focused on container orchestration environments, cloud infrastructure, CI/CD pipeline construction for software delivery, git workflow and monitoring environments. I participate in DevOps projects with CI/CD, Infra as Code and GitFlow, managed by agile methodologies (Scrum and Kanban)."
+    "Enthusiast, explorer and lover of DevOps culture, development with scripting languages (Python, Golango, Ruby, Shell Script, PowerShell, Ruby), automation and cloud. Currently I work mainly with container orchestration environments, cloud infrastructure, CI/CD pipeline construction for software delivery, platform engineering and system monitoring. I participate in DevOps/GitOps projects with CI/CD, secrets management, infra as code and git branching workflow, managed by agile methodologies (Scrum and Kanban)."
   ],
   "🧪 Past Experience": [
-    "DevOps Analyst       | Nuage",
+    "DevOps Engineer      | NuageIT",
+    "DevOps Analyst       | NuageIT",
     "Cloud/DevOps Analyst | Stefanini",
     "Cloud Trainee        | Stefanini"
   ],
@@ -14,7 +15,8 @@
     "Python",
     "Ruby",
     "GoLang",
-    "JavaScript"
+    "JavaScript",
+    "Typescript"
   ],
   "💨 Tech Skills":[
     "AWS",
@@ -49,14 +51,14 @@
     "Anime",
     "Camping",
     "Music",
-    "Beer"
+    "Beer",
+    "Travel"
   ],
   "🤙 Contact Me":[
     "Email: ci-monk@protonmail.com",
     "Linktree: https://linktr.ee/lpmatos"
   ],
   "💸 Donations":[
-    "BTC: bc1qn50elv826qs2qd6xhfh6n79649epqyaqmtwky5",
-    "LTC: ltc1qwzrxmlmzzx68k2dnrcrplc4thadm75khzrznjw"
+    "BTC: bc1qn50elv826qs2qd6xhfh6n79649epqyaqmtwky5"
   ]
 }

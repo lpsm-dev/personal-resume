@@ -1,10 +1,7 @@
 {
   "_comment": "this project is not a node.js one, package.json is just used to define some metadata",
   "scripts": {
-    "commit": "commit",
-    "precommit": "pre-commit run -a",
-    "preinstall": "npx force-resolutions",
-    "secrets": "gitleaks detect --config .gitlab/config/.gitleaks.toml --verbose"
+    "commit": "commit"
   },
   "commitlint": {
     "extends": [
