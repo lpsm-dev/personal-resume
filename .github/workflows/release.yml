@@ -32,6 +32,7 @@ jobs:
       - name: Release
         run: |
           cd ./code
+          cp ${{ github.workspace }}/config/.releaserc.json .
           npx semantic-release
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
