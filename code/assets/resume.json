@@ -3,15 +3,15 @@
     "Enthusiast, explorer and lover of DevOps culture, development with scripting languages (Python, Golango, Ruby, Shell Script, PowerShell, Ruby), automation and cloud. Currently I work mainly with container orchestration environments, cloud infrastructure, CI/CD pipeline construction for software delivery, platform engineering and system monitoring. I participate in DevOps/GitOps projects with CI/CD, secrets management, infra as code and git branching workflow, managed by agile methodologies (Scrum and Kanban)."
   ],
   "🧪 Past Experience": [
-    "DevOps Engineer      | NuageIT",
-    "DevOps Analyst       | NuageIT",
-    "Cloud/DevOps Analyst | Stefanini",
-    "Cloud Trainee        | Stefanini"
+    "DevOps Engineer      | NuageIT   (current)",
+    "DevOps Analyst       | NuageIT   (03/2021 - 01/2023) - 1 year 11 months",
+    "Cloud/DevOps Analyst | Stefanini (01/2020 - 08/2021) - 1 year 8 months",
+    "Cloud Trainee        | Stefanini (04/2019 - 01/2020) - 10 months",
+    "Support Trainee      | Telemikro (06/2018 - 03/2019  - 9 months)",
+    "Trainee              | TecFF     (02/2016 - 06/2016  - 6 months)"
   ],
   "💻 Programming":[
-    "C",
-    "Bash",
-    "PowerShell",
+    "Shell Script",
     "Python",
     "Ruby",
     "GoLang",
@@ -19,15 +19,13 @@
     "Typescript"
   ],
   "💨 Tech Skills":[
-    "AWS",
-    "Git",
-    "Infra-as-Code",
-    "Docker",
-    "Kubernetes",
-    "Helm",
-    "Terraform",
-    "Blockchain",
-    "Data Structure"
+    "Git/GitLab/GitHub",
+    "CI/CD/GitLab CI/GitHub Actions/Azure DevOps",
+    "Container/Docker/Kubernetes",
+    "Helm/Kustomize",
+    "AWS/EC2/EKS/ECR/S3/CloudFront...",
+    "Infra-as-Code/Terraform/Packer",
+    "DevEx/Backstage"
   ],
   "📑 Projects":[
     "Docker Crypto Miner",
@@ -57,8 +55,5 @@
   "🤙 Contact Me":[
     "Email: lpsm-dev@protonmail.com",
     "Linktree: https://linktr.ee/lpmatos"
-  ],
-  "💸 Donations":[
-    "BTC: bc1qn50elv826qs2qd6xhfh6n79649epqyaqmtwky5"
   ]
 }
