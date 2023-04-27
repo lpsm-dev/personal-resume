@@ -1,5 +1,7 @@
 {
-  "branches": ["main"],
+  "branches": [
+    "main"
+  ],
   "tagFormat": "${version}",
   "plugins": [
     [
@@ -53,7 +55,11 @@
           }
         ],
         "parserOpts": {
-          "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "BREAKING"]
+          "noteKeywords": [
+            "BREAKING CHANGE",
+            "BREAKING CHANGES",
+            "BREAKING"
+          ]
         }
       }
     ],
@@ -62,7 +68,11 @@
       {
         "preset": "conventionalcommits",
         "parserOpts": {
-          "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "BREAKING"]
+          "noteKeywords": [
+            "BREAKING CHANGE",
+            "BREAKING CHANGES",
+            "BREAKING"
+          ]
         },
         "presetConfig": {
           "types": [
@@ -136,7 +146,10 @@
     [
       "@semantic-release/git",
       {
-        "assets": ["CHANGELOG.md", "README.md"],
+        "assets": [
+          "CHANGELOG.md",
+          "README.md"
+        ],
         "message": "chore(release): version <%= nextRelease.version %> - <%= new Date().toLocaleDateString('en-US', {year: 'numeric', month: 'short', day: 'numeric', hour: 'numeric', minute: 'numeric' }) %>"
       }
     ]
