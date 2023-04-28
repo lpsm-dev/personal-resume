@@ -2,7 +2,7 @@
 
 <img alt="gif-header" src="https://github.com/lpsm-dev/personal-resume/blob/main/assets/coding.gif" width="225"/>
 
-<h2>Personal resume</h2>
+<h2>Personal Resume</h2>
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 <img alt="gif-about" src="https://github.com/lpsm-dev/personal-resume/blob/main/assets/hey.gif" width="300"/>
 
-<p>This is a simples npm package of my tech resume in a CLI way</p>
+<p>This is a simple npm package that contains my technical resume in a command-line interface (CLI) way</p>
 
 <p align="center">
   <a href="#description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
