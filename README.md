@@ -7,7 +7,7 @@
 <div align="center">
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/lpsm-dev/personal-resume)](https://github.com/lpsm-dev/personal-resume)
-[![NPM package](https://badge.fury.io/js/npm.svg)](https://www.npmjs.org/package/lpsm-dev)
+[![NPM version](https://img.shields.io/npm/v/lpsm-dev?logo=npm&style=flat-square)](https://www.npmjs.org/package/lpsm-dev)
 
 </div>
 
