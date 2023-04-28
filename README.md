@@ -2,7 +2,7 @@
 
 <img alt="gif-header" src="https://github.com/lpsm-dev/personal-resume/blob/main/assets/coding.gif" width="225"/>
 
-<h2>✨ Personal resume ✨</h2>
+<h2>Personal resume</h2>
 
 <div align="center">
 
