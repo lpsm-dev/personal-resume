@@ -31,24 +31,7 @@
 
 ## ➤ Description
 
-Are you an aspiring developer? Want to show off your coding skills. Then here is a CLI of your resume (or you can use it in any innovative way, as you want). This CLI is focused on my resume and skills. It has basics information and can be expanded. The idea it's display this information through the terminal using npx.
-
-<p align="center">
-  <img alt="CLI Example" src="./assets/cli.png" width="550"/>
-</p>
-
-### Options
-
-As of now there are below options:
-
-- ✨ About Me
-- 🧪 Past Experience
-- 💻 Programming
-- 💨 Tech Skills
-- 📑 Projects
-- 🔖 Interests
-- 🤙 Contact Me
-- 💸 Donations
+Do you love coding and want to show off your skills? Try out this CLI resume! You can customize it to your liking and use it to present your abilities. The CLI features my personal resume and skills, but you can add more information as needed. By using npx, it's easy to display your resume in the terminal, making it accessible to tech people.
 
 ## ➤ Installation
 
@@ -114,6 +97,23 @@ Click [here](https://github.com/lpsm-dev/personal-resume/pkgs/container/personal
 </p>
 </details>
 
+## ➤ Options
+
+<p align="center">
+  <img alt="CLI Example" src="./assets/cli.png" width="550"/>
+</p>
+
+As of now there are below options:
+
+- ✨ About Me
+- 🧪 Past Experience
+- 💻 Programming
+- 💨 Tech Skills
+- 📑 Projects
+- 🔖 Interests
+- 🤙 Contact Me
+- 💸 Donations
+
 ## ➤ Demo
 
 https://user-images.githubusercontent.com/58797390/148670421-fce972b2-8c13-4358-95ae-cd5ee6ac4d69.mov
@@ -136,11 +136,13 @@ To check the change history, please access the [**CHANGELOG.md**](CHANGELOG.md) 
 
 ## ➤ Learnings
 
-* Setup a NPM publish pipeline using github actions.
-* Setup a Docker build + scan pipeline using github actions.
-* Create a node setup project to create a CLI.
-* Create a release flow in github actions.
-* Create a multistage node Dockerfile.
+- Setup a NPM publish pipeline using github actions.
+- Setup a Docker build + scan pipeline using github actions.
+- Create a node setup project to create a CLI.
+- Create a release flow in github actions.
+- Create a multistage node Dockerfile.
+- Organize a git repo using pre-commit, editorconfig, gitignore and others.
+- Setup make commands using Makefile.
 
 ## ➤ Project status
 
