@@ -129,10 +129,6 @@ To check the change history, please access the [**CHANGELOG.md**](CHANGELOG.md) 
 - Organize a git repo using pre-commit, editorconfig, gitignore and others.
 - Setup make commands using Makefile.
 
-## ➤ Project status
-
-Project completed and will not be constantly updated! 👋
-
 ## ➤ Show your support
 
 <div align="center">
