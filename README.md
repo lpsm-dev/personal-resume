@@ -25,6 +25,8 @@
 
 Do you love coding and want to show off your skills? Try out this CLI resume! You can customize it to your liking and use it to present your abilities. By using `npx`, it's easy to display your resume in the terminal, making it accessible to tech people.
 
+## ➤ Options
+
 <p align="center">
   <img alt="CLI Example" src="./assets/cli.png" width="550"/>
 </p>
