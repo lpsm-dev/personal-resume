@@ -25,6 +25,21 @@
 
 Do you love coding and want to show off your skills? Try out this CLI resume! You can customize it to your liking and use it to present your abilities. By using `npx`, it's easy to display your resume in the terminal, making it accessible to tech people.
 
+<p align="center">
+  <img alt="CLI Example" src="./assets/cli.png" width="550"/>
+</p>
+
+As of now there are below options:
+
+- ✨ About Me
+- 🧪 Past Experience
+- 💻 Programming
+- 💨 Tech Skills
+- 📑 Projects
+- 🔖 Interests
+- 🤙 Contact Me
+- 💸 Donations
+
 ## ➤ Usage
 
 Ways to run and use this project.
@@ -64,7 +79,6 @@ npx lpsm-dev
 <details>
 <summary>Container</summary>
 <p>
-To run the docker container:
 
 ```bash
 docker run -it --rm --name personal-resume ghcr.io/lpsm-dev/personal-resume:main
@@ -73,23 +87,6 @@ docker run -it --rm --name personal-resume ghcr.io/lpsm-dev/personal-resume:main
 Click [here](https://github.com/lpsm-dev/personal-resume/pkgs/container/personal-resume/versions) to see available image tags.
 </p>
 </details>
-
-## ➤ Options
-
-<p align="center">
-  <img alt="CLI Example" src="./assets/cli.png" width="550"/>
-</p>
-
-As of now there are below options:
-
-- ✨ About Me
-- 🧪 Past Experience
-- 💻 Programming
-- 💨 Tech Skills
-- 📑 Projects
-- 🔖 Interests
-- 🤙 Contact Me
-- 💸 Donations
 
 ## ➤ Demo
 
