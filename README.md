@@ -75,9 +75,7 @@ npx lpsm-dev
 To run the docker container:
 
 ```bash
-docker container run \
-  -it --rm --name personal-resume \
-  ghcr.io/lpsm-dev/personal-resume:main
+docker run -it --rm --name personal-resume ghcr.io/lpsm-dev/personal-resume:main
 ```
 
 Click [here](https://github.com/lpsm-dev/personal-resume/pkgs/container/personal-resume/versions) to see available image tags.
