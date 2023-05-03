@@ -94,6 +94,16 @@ Click [here](https://github.com/lpsm-dev/personal-resume/pkgs/container/personal
 
 https://user-images.githubusercontent.com/58797390/148670421-fce972b2-8c13-4358-95ae-cd5ee6ac4d69.mov
 
+## ➤ Learning
+
+- Setup a NPM publish pipeline using github actions.
+- Setup a Docker build + scan pipeline using github actions.
+- Create a node setup project to create a CLI.
+- Create a release flow in github actions.
+- Create a multistage node Dockerfile.
+- Organize a git repo using pre-commit, editorconfig, gitignore and others.
+- Setup make commands using Makefile.
+
 ## ➤ Inspirations <a name = "inspirations"></a>
 
 * Thanks [@Neha](https://github.com/Neha/resume-cli) for sharing your project.
@@ -109,16 +119,6 @@ https://user-images.githubusercontent.com/58797390/148670421-fce972b2-8c13-4358-
 ## ➤ Versioning
 
 To check the change history, please access the [**CHANGELOG.md**](CHANGELOG.md) file.
-
-## ➤ Learnings
-
-- Setup a NPM publish pipeline using github actions.
-- Setup a Docker build + scan pipeline using github actions.
-- Create a node setup project to create a CLI.
-- Create a release flow in github actions.
-- Create a multistage node Dockerfile.
-- Organize a git repo using pre-commit, editorconfig, gitignore and others.
-- Setup make commands using Makefile.
 
 ## ➤ Show your support
 
