@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="gif-header" src="https://github.com/lpsm-dev/personal-resume/blob/main/assets/coding.gif" width="225"/>
+<img alt="gif-header" src="https://github.com/lpsm-dev/lpsm-dev/blob/main/assets/coding.gif" width="225"/>
 
 <h2>Personal Resume</h2>
 
@@ -15,7 +15,7 @@
 
 ---
 
-<img alt="gif-about" src="https://github.com/lpsm-dev/personal-resume/blob/main/assets/hey.gif" width="300"/>
+<img alt="gif-about" src="https://github.com/lpsm-dev/lpsm-dev/blob/main/assets/hey.gif" width="300"/>
 
 <h4>This is a simple npm package with my technical resume in a CLI way</h4>
 
