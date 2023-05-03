@@ -48,7 +48,7 @@ As of now there are below options:
 
 Ways to run and use this project.
 
-### Node
+**Node**
 
 <details>
 <summary>Local</summary>
@@ -78,7 +78,7 @@ npx lpsm-dev
 </p>
 </details>
 
-### Docker
+**Docker**
 
 <details>
 <summary>Container</summary>
