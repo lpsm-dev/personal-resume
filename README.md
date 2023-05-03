@@ -30,7 +30,7 @@ Do you love coding and want to show off your skills? Try out this CLI resume! Yo
 ## ➤ Options
 
 <p align="center">
-  <img alt="CLI Example" src="./github/assets/cli.png" width="550"/>
+  <img alt="CLI Example" src=".github/assets/cli.png" width="550"/>
 </p>
 
 As of now there are below options:
