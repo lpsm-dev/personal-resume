@@ -52,8 +52,6 @@ node index.js
 <summary>Published</summary>
 <p>
 
-Published npm Package execution method:
-
 ```bash
 npx lpsm-dev
 ```
