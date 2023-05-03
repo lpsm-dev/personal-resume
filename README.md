@@ -34,6 +34,7 @@ Ways to run and use this project.
 <details>
 <summary>Local</summary>
 <p>
+
 ```bash
 npm start
 ```
@@ -43,17 +44,20 @@ or
 ```bash
 node index.js
 ```
+
 </p>
 </details>
 
 <details>
 <summary>Published</summary>
 <p>
+
 Published npm Package execution method:
 
 ```bash
 npx lpsm-dev
 ```
+
 </p>
 </details>
 
