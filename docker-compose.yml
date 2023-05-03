@@ -1,9 +1,5 @@
 version: "3.9"
 
-# ================================================
-# ANCHORS
-# ================================================
-
 x-logging: &default-logging
   driver: "json-file"
   options:
@@ -17,10 +13,6 @@ x-entrypoint: &default-entrypoint
       echo Waiting TTY interation..
       /bin/sh || exit 0
     "
-
-# ================================================
-# DEFINING SERVICES
-# ================================================
 
 services:
   personal-resume:
