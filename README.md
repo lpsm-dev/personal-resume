@@ -84,6 +84,8 @@ npx lpsm-dev
 <summary>Container</summary>
 <p>
 
+Just a simple example that you can use to run this container:
+
 ```bash
 docker run -it --rm --name personal-resume ghcr.io/lpsm-dev/personal-resume:main
 ```
