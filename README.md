@@ -19,7 +19,6 @@
 
 <p align="center">
   <a href="#description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#usage">Usage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#versioning">Versioning</a>
@@ -31,19 +30,7 @@
 
 ## ➤ Description
 
-Do you love coding and want to show off your skills? Try out this CLI resume! You can customize it to your liking and use it to present your abilities. By using npx, it's easy to display your resume in the terminal, making it accessible to tech people.
-
-## ➤ Installation
-
-```bash
-docker pull ghcr.io/lpsm-dev/personal-resume:main
-```
-
-or
-
-```bash
-npx lpsm-dev
-```
+Do you love coding and want to show off your skills? Try out this CLI resume! You can customize it to your liking and use it to present your abilities. By using `npx`, it's easy to display your resume in the terminal, making it accessible to tech people.
 
 ## ➤ Usage
 
