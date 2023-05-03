@@ -34,8 +34,6 @@ Ways to run and use this project.
 <details>
 <summary>Local</summary>
 <p>
-Local execution method:
-
 ```bash
 npm start
 ```
@@ -51,7 +49,6 @@ node index.js
 <details>
 <summary>Published</summary>
 <p>
-
 Published npm Package execution method:
 
 ```bash
