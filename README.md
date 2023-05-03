@@ -31,7 +31,7 @@
 
 ## ➤ Description
 
-Do you love coding and want to show off your skills? Try out this CLI resume! You can customize it to your liking and use it to present your abilities. The CLI features my personal resume and skills, but you can add more information as needed. By using npx, it's easy to display your resume in the terminal, making it accessible to tech people.
+Do you love coding and want to show off your skills? Try out this CLI resume! You can customize it to your liking and use it to present your abilities. By using npx, it's easy to display your resume in the terminal, making it accessible to tech people.
 
 ## ➤ Installation
 
