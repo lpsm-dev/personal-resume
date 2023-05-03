@@ -15,7 +15,7 @@
 
 <img alt="gif-about" src="https://github.com/lpsm-dev/personal-resume/blob/main/assets/hey.gif" width="300"/>
 
-<p>This is a simple npm package that contains my technical resume in a command-line interface (CLI) way</p>
+<p>This is a simple npm package with my technical resume in a CLI way</p>
 
 <p align="center">
   <a href="#description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
