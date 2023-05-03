@@ -6,7 +6,9 @@
 
 <div align="center">
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/lpsm-dev/personal-resume)](https://github.com/lpsm-dev/personal-resume)
+[![Semantic Release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)]()
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)]()
+[![GitHub repo size](https://img.shields.io/github/repo-size/lpsm-dev/personal-resume)]()
 [![NPM version](https://img.shields.io/npm/v/lpsm-dev?logo=npm&style=flat-square)](https://www.npmjs.org/package/lpsm-dev)
 
 </div>
